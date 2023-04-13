@@ -1,7 +1,7 @@
-#Fibonacci Sequence Java Program with User Input
+# Fibonacci Sequence Java Program with User Input
 This is a Java program that prints the Fibonacci sequence based on user input.
 
-#How to Run the Program
+# How to Run the Program
 To run the program, follow these steps:
 
 1.Open your terminal or command prompt.
